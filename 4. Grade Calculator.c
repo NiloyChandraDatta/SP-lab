@@ -1,4 +1,4 @@
-\\Write a program that takes a score as input and assigns a grade (A, B, C, D, F) using the switch-case statement
+// Write a program that takes a score as input and assigns a grade (A, B, C, D, F) using the switch-case statement
 #include<stdio.h>
 
 int main(){
